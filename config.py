@@ -26,7 +26,7 @@ available_setting = {
     "group_chat_prefix": ["@正经管家"],  # 群聊时包含该前缀则会触发机器人回复 
     "group_chat_reply_prefix": "正经管家",  # 群聊时自动回复的前缀
     "group_chat_reply_suffix": "",   # 群聊时自动回复的后缀，\n 可以换行
-    "group_chat_keyword": [正经],  # 群聊时包含该关键词则会触发机器人回复
+    "group_chat_keyword": [],  # 群聊时包含该关键词则会触发机器人回复
     "group_at_off": False,  # 是否关闭群聊时@bot的触发
     "group_name_white_list": ["科普校园网跟手机卡套餐的利与弊", "科普校园网跟手机卡套餐的利与弊"],  # 开启自动回复的群名称列表
     "group_name_keyword_white_list": [],  # 开启自动回复的群名称关键词列表
