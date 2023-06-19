@@ -1,21 +1,21 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "正经管家",
+    "@正经管家"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[正经管家] ",
   "group_chat_prefix": [
-    "@bot"
+    "@正经管家"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
-    "ChatGPT测试群2"
+    "科普校园网跟手机卡套餐的利与弊",
+    "科普校园网跟手机卡套餐的利与弊"
   ],
   "group_chat_in_one_session": [
-    "ChatGPT测试群"
+    "科普校园网跟手机卡套餐的利与弊"
   ],
   "image_create_prefix": [
     "画",
