@@ -50,7 +50,7 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
 
-      - uses: actions/delete-package-versions@v5
+      - uses: actions/delete-package-versions@v4
         with:
           package-name: 'chatgpt-on-wechat'
           package-type: 'container'
